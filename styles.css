@@ -127,7 +127,7 @@
   }
   section {
     height: 760px;
-    max-width: 100%;
+    width: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -146,14 +146,14 @@
   .top-landscape {
     background-color: white;
     height: 260px;
-    max-width: 340px;
+    width: 340px;
     padding-top: 5px;
     padding-left: 40px;
     border-radius: 0.5rem 0.5rem 0 0;
   }
   .lower-landscape {
     height: 105px;
-    max-width: 380px;
+    width: 380px;
     display: grid;
     color: white;
   }
